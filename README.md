@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Jose Gutierrez Estrada</h1>
 <h3 align="center">A passionate data analytics and frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Data Science Project**
 
 - 🌱 I’m currently learning **Vue js, Angular**
 
